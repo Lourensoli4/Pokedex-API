@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Pokedex API
 
 I created a pokedex which fetches data from an API and makes the data searchable on the UI, see below:
 
